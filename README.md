@@ -19,3 +19,4 @@ python weather.py
 Enter a city name when prompted.
 
 ## Example
+enter city name: Mysore Mysore: +29°
